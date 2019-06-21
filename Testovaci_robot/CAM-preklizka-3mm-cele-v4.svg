@@ -12,7 +12,7 @@
    viewBox="-10 -610 426.99999 601.99997"
    version="1.1"
    id="svg86"
-   sodipodi:docname="CAM-preklizka-3mm-cele-v3.svg"
+   sodipodi:docname="CAM-preklizka-3mm-cele-v4.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata92">
@@ -41,9 +41,9 @@
      inkscape:window-height="1017"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="0.89437036"
-     inkscape:cx="832.51689"
-     inkscape:cy="1866.0139"
+     inkscape:zoom="0.63241535"
+     inkscape:cx="749.26363"
+     inkscape:cy="1616.7398"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1142,7 +1142,7 @@
        style="fill:none;stroke:#0000ff;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <g
-     transform="translate(-608.5914,-583.287)"
+     transform="translate(-378.43415,-405.78783)"
      id="Setup33"
      style="stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none">
     <path
