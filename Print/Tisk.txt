@@ -1,6 +1,7 @@
 Na 1 robota
 
 2x Naboj
+	-Layer Height: 0.2mm, Top Layers: 3, Perimeters: 2,Bottom Layers: 2, Infill: 30%
 2x Prstenec
 1x Ozubeni1
 1x Ozubeni2
