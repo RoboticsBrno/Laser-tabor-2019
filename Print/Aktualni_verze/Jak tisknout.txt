@@ -1,7 +1,9 @@
 Na 1 robota
 
-2x Naboj
-	-Layer Height: 0.2mm, Top Layers: 3, Perimeters: 2,Bottom Layers: 2, Infill: 30%
-2x Prstenec
-1x Ozubeni1
-1x Ozubeni2
+-Layer Height: 0.2mm, Top Layers: 3, Perimeters: 2,Bottom Layers: 2, Infill: 30%
+-Bylo by dobre nastavit random švy
+
+2x Naboj	
+4x Nakolek
+1x Ozubeni1.1
+1x Ozubeni2.1
